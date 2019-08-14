@@ -1,0 +1,16 @@
+{
+  "productKey": "a1EIkGA7wfh",
+  "deviceName": "Unit01",
+  "productSecret":"inDzzTR0nZAOmZEs",
+  "deviceSecret": "vEHrdiMkFoyg0mop5ZQdPCf42Yc7N2Vv",
+  "subDevice": [
+    {
+      "productKey": "",
+      "deviceName": ""
+    },
+    {
+      "productKey": "",
+      "deviceName": ""
+    }
+  ]
+}
